@@ -1,0 +1,22 @@
+{
+  "name": "nix_2_stage_hw_1",
+  "version": "1.0.0",
+  "description": "nix homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Milus",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1"
+  }
+}
